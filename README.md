@@ -59,10 +59,10 @@ streamlit run main.py
 
 ## 📸 Screenshots  
 ### **1️⃣ User Input Interface**  
-![User Input] /images/image1
+![User Input] https://github.com/kritgarg/personal-fitness-tracker/blob/main/images/image1.png
 
 ### **2️⃣ Calorie Prediction Output**  
-![Prediction]/images/image2
+![Prediction] https://github.com/kritgarg/personal-fitness-tracker/blob/main/images/image2.png
 
 
 ---
@@ -105,7 +105,9 @@ This project is **open-source** under the **MIT License**.
 
 ### **👤 Author**  
 👨‍💻  KRIT GARG 
+
 📧 Kritg0160@gmail.com
+
 🔗 [LinkedIn]  https://www.linkedin.com/in/krit--garg/
 
 ---
