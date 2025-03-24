@@ -2,6 +2,7 @@ import streamlit as st
 import pandas as pd
 import numpy as np
 import pickle
+import sklearn
 from sklearn.ensemble import RandomForestRegressor
 
 # Load dataset (for similar results section)
