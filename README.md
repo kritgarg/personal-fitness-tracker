@@ -56,10 +56,12 @@ streamlit run main.py
 
 ## 📸 Screenshots  
 ### **1️⃣ User Input Interface**  
-![User Input] (https://github.com/kritgarg/personal-fitness-tracker/blob/main/images/image1.png)
+![User Input](https://raw.githubusercontent.com/kritgarg/personal-fitness-tracker/main/images/image1.png)
+
 
 ### **2️⃣ Calorie Prediction Output**  
-![Prediction] (https://github.com/kritgarg/personal-fitness-tracker/blob/main/images/image2.png)
+![Prediction](https://raw.githubusercontent.com/kritgarg/personal-fitness-tracker/main/images/image2.png)
+
 
 
 ---
