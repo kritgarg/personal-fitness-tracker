@@ -98,7 +98,7 @@ This project is **open-source** under the **MIT License**.
 ---
 
 ## 🌐 Live Demo  
-👉 **[Try the App on Streamlit](https://your-app-link.streamlit.app/)**  
+👉 **[Try the App on Streamlit](https://personal-fitness-tracker-krit.streamlit.app/)**  
 
 ---
 
