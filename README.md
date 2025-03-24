@@ -1,6 +1,3 @@
-Here's a **dynamic `README.md` file** for your **Personal Fitness Tracker** repository. It includes project details, installation steps, usage instructions, and future improvements. 🚀  
-
-```md
 # 📊 Personal Fitness Tracker Using AI & Machine Learning  
 
 ![Streamlit](https://img.shields.io/badge/Made_with-Streamlit-red?style=for-the-badge)  
@@ -59,10 +56,10 @@ streamlit run main.py
 
 ## 📸 Screenshots  
 ### **1️⃣ User Input Interface**  
-![User Input] https://github.com/kritgarg/personal-fitness-tracker/blob/main/images/image1.png
+![User Input] (https://github.com/kritgarg/personal-fitness-tracker/blob/main/images/image1.png)
 
 ### **2️⃣ Calorie Prediction Output**  
-![Prediction] https://github.com/kritgarg/personal-fitness-tracker/blob/main/images/image2.png
+![Prediction] (https://github.com/kritgarg/personal-fitness-tracker/blob/main/images/image2.png)
 
 
 ---
